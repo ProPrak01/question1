@@ -1,0 +1,26 @@
+*{
+  padding: 0;
+  margin: 0;
+}
+body{
+  background-color: rgb(0, 0, 0);
+}
+.container {
+        
+        
+  background-image: linear-gradient(to right, #0099f7, #f11712);
+
+  gap: 1vh;
+  border: 0.4vh solid rgb(0, 0, 0);
+  border-radius: 12px;
+  height: 90vh;
+  width: 90%;
+  overflow: scroll;
+
+  margin: 20px auto;
+  padding: 0 20px;
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-around;
+  padding: 2vh;
+}
